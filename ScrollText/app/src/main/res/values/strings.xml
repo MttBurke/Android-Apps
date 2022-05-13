@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ScrollText</string>
+    <string name="article_title">Wikipedia</string>
+    <string name="article_subheading">About Wikipedia</string>
+    <string name="article_text">The domains <i>wikipedia.com</i> and <i>wikipedia.org</i> were registered on January 12, 2001, and January 13, 2001, respectively,
+        and Wikipedia was launched on January 15, 2001, as a single English-language edition at www.wikipedia.com, and announced by Sanger on the Nupedia mailing list.
+        Wikipedia\'s policy of \"neutral point-of-view\" was codified in its first few months.
+        Otherwise, there were relatively few rules initially and Wikipedia operated independently of Nupedia. Originally, Bomis intended to make Wikipedia a business for profit.
+        \n\n
+        In November 2009, a researcher at the Rey Juan Carlos University in Madrid found that the English Wikipedia had lost 49,000 editors during the
+        first three months of 2009; in comparison, the project lost only 4,900 editors during the same period in 2008. <i>The Wall Street Journal</i> cited
+        the array of rules applied to editing and disputes related to such content among the reasons for this trend. Wales disputed these claims in 2009,
+        denying the decline and questioning the methodology of the study. Two years later, in 2011, Wales acknowledged the presence of a slight decline, noting a
+        decrease from \"a little more than 36,000 writers\" in June 2010 to 35,800 in June 2011. In the same interview, Wales also claimed the number of editors was
+        \"stable and sustainable\". A 2013 article titled \"The Decline of Wikipedia\" in <i>MIT Technology Review</i> questioned this claim. The article revealed that since 2007,
+        Wikipedia had lost a third of its volunteer editors, and those still there have focused increasingly on minutiae. In July 2012, <i>The Atlantic</i> reported that the number
+        of administrators is also in decline. In the November 25, 2013,
+        issue of <i>New York</i> magazine, Katherine Ward stated \"Wikipedia, the sixth-most-used website, is facing an internal crisis\".
+    </string>
+</resources>
